@@ -14,7 +14,7 @@
 
 
 #### About Page
-<img src="wassets\img\About.jpeg" width="900">
+<img src="assets\img\About.jpeg" width="900">
 
 
 #### Education Page
