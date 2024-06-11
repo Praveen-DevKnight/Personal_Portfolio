@@ -18,7 +18,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background-image: url("https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif");
+  background: #010e1b;
   background-size: cover;
   left: 0;
   right: 0;
