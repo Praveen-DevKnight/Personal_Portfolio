@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> [https://praveen-devknight.github.io/portfolio/](https://praveen-devknight.github.io/Personal_Portfolio/)
+> (https://praveen-devknight.github.io/Personal_Portfolio/)
 
 :star: Star me on GitHub — it helps!
 
